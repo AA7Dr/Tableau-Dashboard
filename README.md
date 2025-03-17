@@ -56,7 +56,7 @@ o	Japanese companies (Nintendo, Capcom, Square Enix, Bandai Namco) dominate sale
 o	Western games struggle unless heavily localized or adapted to Japanese tastes.
 
 
-###Top-Selling Games: 
+### Top-Selling Games: 
 o	RPGs (e.g., Final Fantasy, Pokémon, Dragon Quest) consistently perform well.
 o	Fighting and Simulation games also have a strong presence.
 
