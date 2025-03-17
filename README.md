@@ -1,14 +1,14 @@
 # Dashboard Analysis
 Below is a breakdown of the four dashboards, along with key takeaways and potential business implications.
 
-Context:
+## Context:
 This data source provides a limited view of the overall gaming and console market,  it includes a small selection of games per year (ranging from 4 to 15 titles). As a result, the observed decline in sales may not accurately reflect the industry's actual performance but could instead be a consequence of incomplete data. The lack of broader representation may skew trends and misrepresent the true state of the gaming market.
 Given these limitations, please keep this in mind when interpreting the dashboards and their takeaways. The insights presented should be viewed with caution, consider them more as a reflection of my current skill set rather than definitive conclusions.
 
 ________________________________________
 
 ## 1. Global Sales Performance Dashboard
-Objective: Provide a high-level view of worldwide platforms and video game sales as well as best-selling titles and top publishers.
+### Objective: Provide a high-level view of worldwide platforms and video game sales as well as best-selling titles and top publishers.
 
 ### Key Takeaways:
 Top Publishers: A few major companies dominate global sales, such as Nintendo, Sony, Microsoft, and Electronic Arts.
@@ -25,7 +25,7 @@ o	Once more the top platforms consist of a few key players. With those companies
 
 ________________________________________
 ## 2. Genre Performance Dashboard
-Objective: Analyze the performance of different video game genres over time and across regions.
+### Objective: Analyze the performance of different video game genres over time and across regions.
 ### Key Takeaways:
 Top-Performing Genres: Certain genres (e.g., Action, Sports, Shooter) consistently drive the highest sales, while others (e.g., Puzzle, Strategy) have more niche audiences.
 
@@ -47,7 +47,7 @@ o	Japan: RPGs and Fighting games have a much stronger presence compared to the W
 ________________________________________
 
 ## 3. Japanese Market Specific Insights Dashboard
-Objective: Focus on the unique aspects of the Japanese video game market.
+### Objective: Focus on the unique aspects of the Japanese video game market.
 ### Key Takeaways:
 Dominance of Handheld & Mobile Gaming: Unlike North America and Europe, Japan has a strong preference for portable consoles and mobile gaming.
 
@@ -65,7 +65,7 @@ o	Fighting and Simulation games also have a strong presence.
 •	Companies should consider mobile game development to succeed in Japan.
 ________________________________________
 ## 4. Region Top Games Comparison Dashboard
-Objective: Compare the top-selling games across different regions (North America, Europe, Japan) to identify market differences.
+### Objective: Compare the top-selling games across different regions (North America, Europe, Japan) to identify market differences.
 ### Key Takeaways:
 ### Different Preferences Across Markets: 
 o	North America: Shooters (Call of Duty, Halo) and Sports games (Madden, NBA 2K) dominate.
