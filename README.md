@@ -7,10 +7,10 @@ Given these limitations, please keep this in mind when interpreting the dashboar
 
 ________________________________________
 
-##1. Global Sales Performance Dashboard
+## 1. Global Sales Performance Dashboard
 Objective: Provide a high-level view of worldwide platforms and video game sales as well as best-selling titles and top publishers.
 
-###Key Takeaways:
+### Key Takeaways:
 Top Publishers: A few major companies dominate global sales, such as Nintendo, Sony, Microsoft, and Electronic Arts.
 
 Best-Selling Games: 
