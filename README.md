@@ -1,5 +1,5 @@
 # Dashboard Analysis
-Below is a breakdown of the four dashboards, along with key takeaways and potential business implications.
+Below is a breakdown of the four dashboards, along with key takeaways and potential business implications. Actual file Included as Well
 
 ## Context:
 This data source provides a limited view of the overall gaming and console market,  it includes a small selection of games per year (ranging from 4 to 15 titles). As a result, the observed decline in sales may not accurately reflect the industry's actual performance but could instead be a consequence of incomplete data. The lack of broader representation may skew trends and misrepresent the true state of the gaming market.
@@ -23,6 +23,8 @@ o	Once more the top platforms consist of a few key players. With those companies
 •	Investing in franchises with established fan bases can lead to more predictable revenue streams.
 •	Game developers should prioritize genres & platforms with proven success when planning new releases to optimize profitability. However, entering new markets may prove challenging, as established publishers often hold monopolies or oligopolies in specific genres.
 
+![image](https://github.com/user-attachments/assets/84af69e8-c634-4887-a2fa-f9250400e36a)
+
 ________________________________________
 ## 2. Genre Performance Dashboard
 ### Objective: Analyze the performance of different video game genres over time and across regions.
@@ -43,6 +45,7 @@ o	Japan: RPGs and Fighting games have a much stronger presence compared to the W
 •	Identifying emerging genres can provide investment opportunities for game studios and limit competition from competitors.
 •	Understanding which publishers specialize in specific game genres can be valuable for both competitive analysis and strategic partnerships. This insight helps anticipate potential competitors in the market while also identifying publishers that may be open to collaboration or funding opportunities for future game development.
 
+![image](https://github.com/user-attachments/assets/912fe048-5083-4e64-9cc3-5c9eb12a0f69)
 
 ________________________________________
 
@@ -63,6 +66,9 @@ o	Fighting and Simulation games also have a strong presence.
 ### Business Implications:
 •	Western game studios looking to enter Japan must heavily localize content, focusing on storytelling and art styles that appeal to Japanese audiences.
 •	Companies should consider mobile game development to succeed in Japan.
+
+![image](https://github.com/user-attachments/assets/3ff46425-f534-4ec0-b2d8-625d8480c045)
+
 ________________________________________
 ## 4. Region Top Games Comparison Dashboard
 ### Objective: Compare the top-selling games across different regions (North America, Europe, Japan) to identify market differences.
@@ -76,6 +82,9 @@ Some Global Hits Exist: A few franchises (e.g., Grand Theft Auto, Pokémon, Mari
 •	Publishers should prioritize localization efforts for games targeted at multiple markets.
 •	Marketing should be region-specific—e.g., emphasizing shooters in North America but RPGs in Japan.
 •	Global game developers should consider regional exclusives or different marketing tactics for each region.
+
+![image](https://github.com/user-attachments/assets/5da16b20-e9c0-418a-81e2-cbb7ca2c7646)
+
 ________________________________________
 ## Final Recommendations
 1.	Leverage Regional Insights for Game Development
@@ -86,6 +95,9 @@ o	If targeting Europe, emphasize soccer/football games and racing games.
 o	Use global hit franchises to maximize worldwide revenue potential.
 3.	Adapt Business Models Based on Market Trends
 o	Consider different pricing strategies for each region based on consumer behavior.
+
+![Uploading image.png…]()
+
 ________________________________________
 ## Conclusion
 This Tableau analysis highlights clear market differences and emerging trends in the gaming industry. By applying these insights, game publishers and developers can better tailor their strategies to maximize sales and market penetration across different regions.
