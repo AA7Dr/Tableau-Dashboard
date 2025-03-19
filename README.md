@@ -96,7 +96,6 @@ o	Use global hit franchises to maximize worldwide revenue potential.
 3.	Adapt Business Models Based on Market Trends
 o	Consider different pricing strategies for each region based on consumer behavior.
 
-![Uploading image.png…]()
 
 ________________________________________
 ## Conclusion
