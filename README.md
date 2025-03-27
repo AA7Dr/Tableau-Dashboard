@@ -86,11 +86,11 @@ ________________________________________
 ### Different Preferences Across Markets: 
 o	North America: Shooters (Call of Duty, Halo) and Sports games (Madden, NBA 2K) dominate.
 
-o	Europe: FIFA leads by a huge margin, followed by Racing games (Gran Turismo, Forza).
+o	Europe: Fifa followed by Racing games (Gran Turismo, Forza) are much bigger in the Euro market.
 
 o	Japan: RPGs and fighting games are more popular, with minimal interest in shooters.
 
-Some Global Hits Exist: A few franchises (e.g., Grand Theft Auto, Pokémon, Mario) perform well everywhere.
+Some Global Hits Exist: A few franchises (e.g., Grand Theft Auto, Pokémon, Mario, Wii Sports/Resort) perform well everywhere.
 
 ### Business Implications:
 •	Publishers should prioritize localization efforts for games targeted at multiple markets.
