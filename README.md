@@ -23,6 +23,7 @@ o	The top platforms consist of a few key players. With those companies accountin
 
 ### Business Implications:
 •	Investing in franchises with established fan bases can lead to more predictable revenue streams.
+
 •	Game developers should prioritize genres & platforms with proven success when planning new releases to optimize profitability. However, entering new markets may prove challenging, as established publishers often hold monopolies or oligopolies in specific genres.
 
 ![image](https://github.com/user-attachments/assets/84af69e8-c634-4887-a2fa-f9250400e36a)
