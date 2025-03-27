@@ -19,7 +19,7 @@ o	Certain franchises (e.g., Grand Theft Auto, Pokémon, Call of Duty, FIFA) cons
 o	A significant portion of revenue comes from long-standing franchises rather than new IPs.
 
 ### Best-Selling Platforms: 
-o	Once more the top platforms consist of a few key players. With those companies accounting for over 90% of the total market.
+o	The top platforms consist of a few key players. With those companies accounting for over 90% of the total market.
 
 ### Business Implications:
 •	Investing in franchises with established fan bases can lead to more predictable revenue streams.
