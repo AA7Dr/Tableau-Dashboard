@@ -1,5 +1,5 @@
 # Dashboard Analysis
-Below is a breakdown of the four dashboards, along with key takeaways and potential business implications. Actual file Included as Well
+Below is a breakdown of the four dashboards, along with key takeaways and potential business implications. Actual file Included as well
 
 ## Context:
 This data source provides a limited view of the overall gaming and console market,  it includes a small selection of games per year (ranging from 4 to 15 titles). As a result, the observed decline in sales may not accurately reflect the industry's actual performance but could instead be a consequence of incomplete data. The lack of broader representation may skew trends and misrepresent the true state of the gaming market.
