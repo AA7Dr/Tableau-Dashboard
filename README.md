@@ -77,7 +77,8 @@ o	Fighting and Simulation games also have a strong presence.
 
 •	Companies should consider mobile game development to succeed in Japan.
 
-![image](https://github.com/user-attachments/assets/3ff46425-f534-4ec0-b2d8-625d8480c045)
+![image](https://github.com/user-attachments/assets/99ffe9ab-27cb-4ea1-bbff-1b537cd0e764)
+
 
 ________________________________________
 ## 4. Region Top Games Comparison Dashboard
