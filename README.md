@@ -26,7 +26,7 @@ o	The top platforms consist of a few key players. With those companies accountin
 
 •	Game developers should prioritize genres & platforms with proven success when planning new releases to optimize profitability. However, entering new markets may prove challenging, as established publishers often hold monopolies or oligopolies in specific genres.
 
-![image](https://github.com/user-attachments/assets/84af69e8-c634-4887-a2fa-f9250400e36a)
+![image](https://github.com/user-attachments/assets/912fe048-5083-4e64-9cc3-5c9eb12a0f69)
 
 ________________________________________
 ## 2. Genre Performance Dashboard
@@ -52,7 +52,7 @@ o	Japan: RPGs and Fighting games have a much stronger presence compared to the W
 
 •	Understanding which publishers specialize in specific game genres can be valuable for both competitive analysis and strategic partnerships. This insight helps anticipate potential competitors in the market while also identifying publishers that may be open to collaboration or funding opportunities for future game development.
 
-![image](https://github.com/user-attachments/assets/912fe048-5083-4e64-9cc3-5c9eb12a0f69)
+![image](https://github.com/user-attachments/assets/84af69e8-c634-4887-a2fa-f9250400e36a)
 
 ________________________________________
 
